@@ -1,0 +1,263 @@
+{
+  "version": 1,
+  "quiz": {
+    "title": "Untitled quiz",
+    "questions": [
+      {
+        "type": "mcq",
+        "question": "Which Company has this logo?",
+        "question_image": "/home/adan/prog/quiz_copies/quiz_app/assests/images.png",
+        "required": true,
+        "points": 100,
+        "options": [
+          {
+            "text": "Nividia",
+            "image": null,
+            "correct": true
+          },
+          {
+            "text": "Geforce",
+            "image": null,
+            "correct": false
+          },
+          {
+            "text": "Graphics",
+            "image": null,
+            "correct": false
+          },
+          {
+            "text": "EyeGen",
+            "image": null,
+            "correct": false
+          }
+        ]
+      },
+      {
+        "type": "match",
+        "question": "Match the following:",
+        "question_image": null,
+        "required": true,
+        "points": 100,
+        "options": [
+          {
+            "text": "sdfgfdhhggh",
+            "image": null,
+            "correct": true
+          },
+          {
+            "text": "longbow",
+            "image": null,
+            "correct": false
+          },
+          {
+            "text": "nigger",
+            "image": null,
+            "correct": false
+          },
+          {
+            "text": "newman",
+            "image": null,
+            "correct": false
+          }
+        ],
+        "pairs_list": [
+          {
+            "left": {
+              "text": "1)",
+              "image": "/home/adan/prog/quiz_copies/quiz_app/assests/ram.jpeg"
+            },
+            "right": {
+              "text": "CPU",
+              "image": null
+            }
+          },
+          {
+            "left": {
+              "text": "2)",
+              "image": "/home/adan/prog/quiz_copies/quiz_app/assests/gpu.jpg"
+            },
+            "right": {
+              "text": "GPU",
+              "image": null
+            }
+          },
+          {
+            "left": {
+              "text": "3)",
+              "image": "/home/adan/prog/quiz_copies/quiz_app/assests/cpu.jpeg"
+            },
+            "right": {
+              "text": "RAM",
+              "image": null
+            }
+          }
+        ],
+        "pairs": [
+          [
+            {
+              "text": "1)",
+              "image": "/home/adan/prog/quiz_copies/quiz_app/assests/ram.jpeg"
+            },
+            {
+              "text": "CPU",
+              "image": null
+            }
+          ],
+          [
+            {
+              "text": "2)",
+              "image": "/home/adan/prog/quiz_copies/quiz_app/assests/gpu.jpg"
+            },
+            {
+              "text": "GPU",
+              "image": null
+            }
+          ],
+          [
+            {
+              "text": "3)",
+              "image": "/home/adan/prog/quiz_copies/quiz_app/assests/cpu.jpeg"
+            },
+            {
+              "text": "RAM",
+              "image": null
+            }
+          ]
+        ]
+      },
+      {
+        "type": "checkbox",
+        "question": "CPU parts:",
+        "question_image": null,
+        "required": true,
+        "points": 100,
+        "options": [
+          {
+            "text": "ALU",
+            "image": null,
+            "correct": true
+          },
+          {
+            "text": "CU",
+            "image": null,
+            "correct": true
+          },
+          {
+            "text": "PU",
+            "image": null,
+            "correct": false
+          },
+          {
+            "text": "CLU",
+            "image": null,
+            "correct": false
+          }
+        ],
+        "accepted_answers": [],
+        "items": [
+          {
+            "text": "",
+            "image": null,
+            "target": ""
+          },
+          {
+            "text": "",
+            "image": null,
+            "target": ""
+          },
+          {
+            "text": "",
+            "image": null,
+            "target": ""
+          }
+        ],
+        "rows": 4,
+        "columns": 2,
+        "pairs": [
+          [
+            {
+              "text": "ds1",
+              "image": null
+            },
+            {
+              "text": "ghjk1",
+              "image": null
+            }
+          ],
+          [
+            {
+              "text": "sdf2",
+              "image": null
+            },
+            {
+              "text": "fgh2",
+              "image": null
+            }
+          ],
+          [
+            {
+              "text": "dsf3",
+              "image": null
+            },
+            {
+              "text": "dfg3",
+              "image": null
+            }
+          ],
+          [
+            {
+              "text": "asdf4",
+              "image": null
+            },
+            {
+              "text": "dfg4",
+              "image": null
+            }
+          ]
+        ],
+        "pairs_list": [
+          {
+            "left": {
+              "text": "ds1",
+              "image": null
+            },
+            "right": {
+              "text": "ghjk1",
+              "image": null
+            }
+          },
+          {
+            "left": {
+              "text": "sdf2",
+              "image": null
+            },
+            "right": {
+              "text": "fgh2",
+              "image": null
+            }
+          },
+          {
+            "left": {
+              "text": "dsf3",
+              "image": null
+            },
+            "right": {
+              "text": "dfg3",
+              "image": null
+            }
+          },
+          {
+            "left": {
+              "text": "asdf4",
+              "image": null
+            },
+            "right": {
+              "text": "dfg4",
+              "image": null
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

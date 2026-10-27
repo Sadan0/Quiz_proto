@@ -1,0 +1,11 @@
+# Virtual environments
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# PyInstaller build junk
+build/
+dist/
+*.spec
